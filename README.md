@@ -1,5 +1,5 @@
 # Python-Built-in-Data-Types-From-Scratch
-Complete Tutorial of Python Built-in Data Types 
+### Complete Tutorial of Python Built-in Data Types 
 
 ## Here is the video Link for all the Built-in Data Types
 
@@ -8,7 +8,7 @@ Complete Tutorial of Python Built-in Data Types
 * [Set](https://youtu.be/sjLuch5nddg)
 * [Dictionary](https://youtu.be/F9X_CDPDvIo)
 
--[Python Playlist](https://www.youtube.com/watch?v=qzyVMhAW9FQ&list=PLYU6S1LdLhQi4DoiWkrE6CQmkj1npJ-HN)
+- [Python Playlist](https://www.youtube.com/watch?v=qzyVMhAW9FQ&list=PLYU6S1LdLhQi4DoiWkrE6CQmkj1npJ-HN)
 
-+[My YouTube Channel](https://www.youtube.com/c/SimplifiedLearner)
++ [My YouTube Channel](https://www.youtube.com/c/SimplifiedLearner)
 
